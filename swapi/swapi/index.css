@@ -1,0 +1,25 @@
+#thing {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  button {
+    background-color: slategray;
+    font-family: fantasy;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 48px;
+  }
+  
+  h2 {
+      font-family: fantasy;
+  
+  }
+  
+  #resident-container {
+      text-align: center;
+      background-color: slategray;
+  }
